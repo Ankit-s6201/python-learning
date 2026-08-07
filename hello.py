@@ -1,3 +1,4 @@
-print("hello, github!")
-print("my name is ankit")
-print("this is my first git project")
+print("welcome to python")
+name = input("Enter your name: ")
+print("hello", name)
+print("Learning github is fun!")
